@@ -1,0 +1,21 @@
+
+div{	
+			
+			display: block;
+			border: solid 2px gray;
+			padding: 30px;
+			background-color: lightgray;
+			font-family: helvetica;
+			font-size: 20px;
+}
+.triple{ 	padding: 180px 70px;
+			background-color: azure;
+			border: 1px solid hotpink;
+}
+.floating{
+	float: right;
+}
+.clearfix{
+	overflow: auto;
+	zoom: 1;
+}
